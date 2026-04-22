@@ -5,3 +5,8 @@
 
  ### April 20, 2026
 *  I started strivers a-z dsa sheet in c++ 
+
+###April 22, 2026
+* I have now learned the fundamentals of c++, like arrays,functions,datatypes and operations.
+* I have yet to start web dev properly, for now iv'e installed necessary things.
+  
