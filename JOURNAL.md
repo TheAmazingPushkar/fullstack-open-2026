@@ -12,4 +12,7 @@
 
 ### April 23, 2026
 * started patterns in c++ and continued dsa.
+
+### April 25th, 2026
+* did some self reflection and started daily vlogs
   
