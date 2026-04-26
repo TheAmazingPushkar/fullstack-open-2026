@@ -15,4 +15,6 @@
 
 ### April 25th, 2026
 * did some self reflection and started daily vlogs
-  
+
+### April 26th, 2026
+* I kindof got familiar with printing patterns, and im now a little bit comfortable with nested loops
