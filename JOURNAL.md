@@ -18,3 +18,6 @@
 
 ### April 26th, 2026
 * I kindof got familiar with printing patterns, and im now a little bit comfortable with nested loops
+
+### April 27th, 2026
+* Well i've started stl in c++ and learned some basics.
