@@ -21,3 +21,4 @@
 
 ### April 27th, 2026
 * Well i've started stl in c++ and learned some basics.
+* did more dsa
