@@ -22,3 +22,6 @@
 ### April 27th, 2026
 * Well i've started stl in c++ and learned some basics.
 * did more dsa
+
+### April 28th, 2026
+* started vectors and well did some pairs, also did some time complexity.
