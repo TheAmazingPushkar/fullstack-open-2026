@@ -25,3 +25,6 @@
 
 ### April 28th, 2026
 * started vectors and well did some pairs, also did some time complexity.
+
+### May 2nd, 2026
+* I've now become kinda serious, still hustling.
